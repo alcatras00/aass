@@ -1,0 +1,31 @@
+.container{
+    max-width: 800px;
+    height: 700px;
+    border: 20px solid rgba(black);
+    border-radius: 10px;
+
+
+}
+
+
+.header{
+    text-align: center;
+}
+.imagem1{
+    max-width: 300px;
+    border-radius: 50%;
+}
+.perfil{
+    text-align: center;
+    padding-top: 5%;
+}
+.section{
+    margin-left: 40px;
+}
+
+
+
+
+ p{
+    margin: 0 auto;
+ }
